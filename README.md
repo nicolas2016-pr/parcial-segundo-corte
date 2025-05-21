@@ -1,5 +1,8 @@
 # parcial-segundo-corte
+
+
 #segundo parcial- NICOLAS SANCHEZ VARON
+
 class Pelicula:
     def __init__(self, codigo="", titulo="", director="", duracion=0, alquilada=False):
         self.__codigo = codigo
